@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O health App e uma aplicação de Calculadora de IMC para facilitar o  calculo do seu índice de massa corporal.
+O health e uma aplicação Calculadora de IMC para facilitar o  calculo do seu índice de massa corporal.
 
 ## 🔖 Layout
 
