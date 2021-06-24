@@ -31,7 +31,7 @@ O health App e uma aplicação de Calculadora de IMC para facilitar o  calculo d
 
 <br>
  <p align="center">
-  <img alt="App health" src="https://github.com/felipeduartedeveloper/AppHealth/blob/main/IMG_0454.PNG" width="100%">
+  <img alt="App health" src="https://github.com/felipeduartedeveloper/AppHealth/blob/main/IMG_0454.PNG" width="50%">
 </p>
 <br>
 
